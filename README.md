@@ -1,33 +1,15 @@
 ### Hi there, I'm [Lâm Hoàng Khánh || LHK (for shorten)](https://www.facebook.com/profile.php?id=100006585404772) 👋              ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lhk1234.lhk1234)
 
 I am a third year Computer Science at [HCM University of Education](https://www.facebook.com/FITHCMUE), VietNam. I'd love to explore more about Machine Learning, Deep Learning and Data fields especially Images and Tabular data.
-<p align = "left">
-  
-**My Reseach Interest**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Hello**
-- Classification
-- Detection
-- Prediction
-- Similarity Measure
-  
-</p>
 
-<p align = "center">
-  
-**My Reseach Interest**:
-- Classification
-- Detection
-- Prediction
-- Similarity Measure
-  
-</p>
+### 🤵 Some about me
+**My Interest🔎**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**My Hooby🎢**
+- Classification.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Reading book📗.
+- Detection🎡.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Play sport (badminton, basketball, billiard)⚽, games🎮.
+- Prediction.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Play guitar🎻.
+- Similarity Measure.&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Taking photo, video📸.
 
 
- **I am open to**:
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 ### 👨‍💻 Languages and Tools
 
 <br />
