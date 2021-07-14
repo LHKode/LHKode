@@ -5,7 +5,7 @@ I am a third year Computer Science at [HCM University of Education](https://www.
 ### 🤵 Some about me
 **My Interest🔎**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**My Hooby🎢**
 - Classification.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Reading book📗.
-- Detection🎡.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Play sport (badminton, basketball, billiard)⚽, games🎮.
+- Detection🎡.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Play sport⚽ (badminton, basketball, billiard), games🎮.
 - Prediction.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Play guitar🎻.
 - Similarity Measure.&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Taking photo, video📸.
 
@@ -14,18 +14,25 @@ I am a third year Computer Science at [HCM University of Education](https://www.
 
 <br />
 
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/-Python-silver?style=for-the-badge&logo=python) 
+![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=mysql&logoWidth=10)
+![Python](https://img.shields.io/badge/-Python-silver?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-navy?style=flat&logo=c++)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-wheat?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Colab-orange?style=flat&logo=colab)
+![Kaggle](https://img.shields.io/badge/-Kaggle-inactive?style=flat&logo=kaggle)
+
 
 ----
 ## Connect with me:
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/lmhongkhnh)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=blue" />](https://www.kaggle.com/lmhongkhnh)
 [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>](https://github.com/lhk1234)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/l%C3%A2m-ho%C3%A0ng-b093511a6/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=9cf"/>](https://www.linkedin.com/in/l%C3%A2m-ho%C3%A0ng-b093511a6/)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=informational"/>](https://www.linkedin.com/in/l%C3%A2m-ho%C3%A0ng-b093511a6/)
   
 </p>
 
