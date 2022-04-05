@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lâm Hoàng Khánh || LHK (for shorten)](https://www.facebook.com/profile.php?id=100006585404772) 👋              ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lhk1234.lhk1234)
 
-I am a third year Computer Science at [HCM University of Education](https://www.facebook.com/FITHCMUE), VietNam. I'd love to explore more about Machine Learning, Deep Learning and Data fields especially Images and Tabular data.
+I am a final year Computer Science at [HCM University of Education](https://www.facebook.com/FITHCMUE), VietNam. I'd love to explore more about Machine Learning, Deep Learning and Data fields especially Images and Tabular data.
 
 ### 🤵 Some about me
 **My Interest🔎**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**My Hooby🎢**
